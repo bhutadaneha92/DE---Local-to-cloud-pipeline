@@ -1,6 +1,8 @@
 # DE: Local-to-cloud-pipeline
 ## Summary
-[Provide a brief overview of your project.]
+To know more about the project go through medium article
+https://medium.com/@mundadaneha92/from-web-scraping-to-cloud-a-data-engineering-adventure-with-python-and-mysql-ebc72eda8a1b
+
 ## Languages and Libraries Used
 ### List the programming languages - Python, SQL
 ### Libraries - Pandas, requests, BeautifulSoup, timezonefinder, datetime, lat_lon_parser 
