@@ -4,6 +4,10 @@ To know more about the project go through medium article
 https://medium.com/@mundadaneha92/from-web-scraping-to-cloud-a-data-engineering-adventure-with-python-and-mysql-ebc72eda8a1b
 
 ## Languages and Libraries Used
+### Tools used - 
+   - Visual Studio Code: https://apps.microsoft.com/detail/xp9khm4bk9fz7q?launch=true&mode=full&hl=en-us&gl=de&ocid=bingwebsearch
+   - MySQL Workbench: https://app.sqldbm.com/Recent/
+   - SqlDBM: https://app.sqldbm.com/Recent/
 ### List the programming languages - Python, SQL
 ### Libraries - Pandas, requests, BeautifulSoup, timezonefinder, datetime, lat_lon_parser 
 
