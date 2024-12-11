@@ -38,6 +38,6 @@ Rather than choosing one method, I utilized both to broaden my skillset. This du
 
 ## Shortcut to the Good Stuff
 
-Feeling adventurous? Nah? That’s cool! Skip the drama, the details, and the 5-cups-of-coffee-debugging phase. Just grab files 7, 8, and 9 like you're reaching for the last slice of pizza. They’ve got everything you need to run a local pipeline and cloud functions without breaking a sweat (or your keyboard).
+Feeling adventurous? Nah? That’s cool! Skip the drama, the details, and the 5-cups-of-coffee-debugging phase. Just grab files 7, 8, 9 and gans_cloud.sql like you're reaching for the last slice of pizza. They’ve got everything you need to run a local pipeline and cloud functions without breaking a sweat (or your keyboard).
 
 Why waste brain cells reinventing the wheel when these files are basically the Swiss Army knife of your project? You're welcome. 🚀
